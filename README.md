@@ -1,3 +1,4 @@
+# odin-recipes
 Feline Flavor Files
 
 Welcome to the ultimate digital cookbook where the recipes are legendary and the chefs have whiskers. This project features a collection of high-calorie, highly opinionated HTML recipe pages narrated by the internet’s (and cinema's) most iconic cats.
@@ -18,4 +19,3 @@ Setup
     Keep your fingers away from the keyboard if you're eating—cats don't like sticky keys.
 
 “I’m not messy, I’m just an artist with meat sauce.” — Garfield (probably)
-# odin-recipes
